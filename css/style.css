@@ -1,0 +1,21 @@
+h1 {
+    color: purple;
+}
+
+p {
+    color: green;
+}
+
+.p-blue {
+    color: blue;
+    font: 25px;
+}
+
+.p-purple {
+    color: purple;
+    font: 20px;
+}
+
+#mike {
+    color: yellow;
+}
