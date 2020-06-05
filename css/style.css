@@ -16,6 +16,10 @@ p {
     font: 20px;
 }
 
+.row {
+    margin: 1%;
+}
+
 #mike {
     color: yellow;
 }
