@@ -20,6 +20,10 @@ p {
     margin: 1%;
 }
 
+#navcontainer {
+    margin-top: 4%;
+}
+
 #mike {
     color: yellow;
 }
