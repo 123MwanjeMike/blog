@@ -11,10 +11,19 @@ p {
 }
 
 .icons {
-    min-block-size: 60%;
+    max-block-size: 60%;
     margin: 10%;
+}
+
+.btn-outline-success {
+    color: darkgray;
+    border-color: darkgray;
 }
 
 #search {
     background-color: darkgray;
+}
+
+#footer h6 {
+    color: rgb(40, 185, 105);
 }
