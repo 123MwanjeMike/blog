@@ -20,6 +20,10 @@ p {
     border-color: darkgray;
 }
 
+.page-footer p {
+    color: darkgrey;    
+}
+
 #search {
     background-color: darkgray;
 }
