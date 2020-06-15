@@ -10,11 +10,6 @@ p {
     margin: 1%;
 }
 
-.icons {
-    max-block-size: 60%;
-    margin: 10%;
-}
-
 .btn-outline-success {
     color: darkgray;
     border-color: darkgray;
