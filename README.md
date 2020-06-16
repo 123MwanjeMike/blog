@@ -1,2 +1,2 @@
 # blog
-A personal portfolio and blog website
+A template portfolio and blog website
